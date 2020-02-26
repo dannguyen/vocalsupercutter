@@ -1,0 +1,1241 @@
+{
+  "jobName": "wh-commercial",
+  "accountId": "13371337",
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "the more than a broken system tells you that you're wrong, the more certain you should be that you must keep pushing ahead because it's the outsiders who changed the world on to make a real and lasting difference. Nothing worth doing ever came easy Treat the word impossible as nothing more than motivation. The future belongs to the people who follow their heart. No matter what the critics say, way must always remember that we share one home and one glorious destiny way. All believe the same red blood way. All salute the same great American flag our best days are yet to come."
+      }
+    ],
+    "items": [
+      {
+        "start_time": "0.27",
+        "end_time": "0.39",
+        "alternatives": [
+          {
+            "confidence": "0.9957",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "0.4",
+        "end_time": "0.81",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "more"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "0.81",
+        "end_time": "0.96",
+        "alternatives": [
+          {
+            "confidence": "0.9911",
+            "content": "than"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "0.96",
+        "end_time": "1.08",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "a"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "1.09",
+        "end_time": "1.57",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "broken"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "1.57",
+        "end_time": "2.11",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "system"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "2.12",
+        "end_time": "2.54",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "tells"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "2.54",
+        "end_time": "3.4",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "you"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.41",
+        "end_time": "3.59",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "that"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.6",
+        "end_time": "3.81",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "you're"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.81",
+        "end_time": "4.6",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "wrong"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "4.61",
+        "end_time": "4.72",
+        "alternatives": [
+          {
+            "confidence": "0.9991",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "4.72",
+        "end_time": "4.95",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "more"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "4.95",
+        "end_time": "5.4",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "certain"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "5.41",
+        "end_time": "5.65",
+        "alternatives": [
+          {
+            "confidence": "0.9824",
+            "content": "you"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "5.65",
+        "end_time": "5.87",
+        "alternatives": [
+          {
+            "confidence": "0.9997",
+            "content": "should"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "5.88",
+        "end_time": "6.48",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "be"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "6.52",
+        "end_time": "7.0",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "that"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "7.01",
+        "end_time": "7.18",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "you"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "7.18",
+        "end_time": "7.74",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "must"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "7.75",
+        "end_time": "8.47",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "keep"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "8.48",
+        "end_time": "9.19",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "pushing"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "9.33",
+        "end_time": "9.86",
+        "alternatives": [
+          {
+            "confidence": "0.9965",
+            "content": "ahead"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "10.38",
+        "end_time": "11.42",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "because"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.42",
+        "end_time": "11.64",
+        "alternatives": [
+          {
+            "confidence": "0.9652",
+            "content": "it's"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.64",
+        "end_time": "11.78",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.78",
+        "end_time": "12.48",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "outsiders"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "12.48",
+        "end_time": "12.59",
+        "alternatives": [
+          {
+            "confidence": "0.9748",
+            "content": "who"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "12.6",
+        "end_time": "13.06",
+        "alternatives": [
+          {
+            "confidence": "0.7564",
+            "content": "changed"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "13.07",
+        "end_time": "13.18",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "13.19",
+        "end_time": "13.64",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "world"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "13.65",
+        "end_time": "14.38",
+        "alternatives": [
+          {
+            "confidence": "0.9885",
+            "content": "on"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.4",
+        "end_time": "14.46",
+        "alternatives": [
+          {
+            "confidence": "0.2968",
+            "content": "to"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.46",
+        "end_time": "14.74",
+        "alternatives": [
+          {
+            "confidence": "0.9947",
+            "content": "make"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.74",
+        "end_time": "14.87",
+        "alternatives": [
+          {
+            "confidence": "0.9941",
+            "content": "a"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.88",
+        "end_time": "15.29",
+        "alternatives": [
+          {
+            "confidence": "0.6809",
+            "content": "real"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.3",
+        "end_time": "15.46",
+        "alternatives": [
+          {
+            "confidence": "0.6741",
+            "content": "and"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.46",
+        "end_time": "16.0",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "lasting"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "16.01",
+        "end_time": "16.75",
+        "alternatives": [
+          {
+            "confidence": "0.9986",
+            "content": "difference"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "17.14",
+        "end_time": "17.81",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "Nothing"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "18.07",
+        "end_time": "18.45",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "worth"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "18.46",
+        "end_time": "18.97",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "doing"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "19.3",
+        "end_time": "19.88",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "ever"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "20.24",
+        "end_time": "20.53",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "came"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "20.54",
+        "end_time": "21.01",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "easy"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "21.83",
+        "end_time": "22.33",
+        "alternatives": [
+          {
+            "confidence": "0.9654",
+            "content": "Treat"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "22.4",
+        "end_time": "22.55",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "22.55",
+        "end_time": "22.99",
+        "alternatives": [
+          {
+            "confidence": "0.9999",
+            "content": "word"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.0",
+        "end_time": "23.98",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "impossible"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "24.79",
+        "end_time": "25.11",
+        "alternatives": [
+          {
+            "confidence": "0.9939",
+            "content": "as"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "25.12",
+        "end_time": "25.67",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "nothing"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "25.68",
+        "end_time": "26.17",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "more"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.64",
+        "end_time": "26.82",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "than"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.83",
+        "end_time": "27.56",
+        "alternatives": [
+          {
+            "confidence": "0.7774",
+            "content": "motivation"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "28.28",
+        "end_time": "28.39",
+        "alternatives": [
+          {
+            "confidence": "0.6255",
+            "content": "The"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "28.4",
+        "end_time": "28.91",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "future"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "28.91",
+        "end_time": "29.53",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "belongs"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "29.54",
+        "end_time": "29.69",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "to"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "29.69",
+        "end_time": "29.82",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "29.83",
+        "end_time": "30.35",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "people"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "30.72",
+        "end_time": "30.98",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "who"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "30.99",
+        "end_time": "31.42",
+        "alternatives": [
+          {
+            "confidence": "0.7793",
+            "content": "follow"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.43",
+        "end_time": "31.65",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "their"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.65",
+        "end_time": "32.01",
+        "alternatives": [
+          {
+            "confidence": "0.96",
+            "content": "heart"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "32.02",
+        "end_time": "32.16",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "No"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "32.16",
+        "end_time": "32.51",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "matter"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "32.51",
+        "end_time": "32.95",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "what"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "33.39",
+        "end_time": "33.48",
+        "alternatives": [
+          {
+            "confidence": "0.7693",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "33.49",
+        "end_time": "33.95",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "critics"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "33.95",
+        "end_time": "34.3",
+        "alternatives": [
+          {
+            "confidence": "0.995",
+            "content": "say"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "34.31",
+        "end_time": "35.0",
+        "alternatives": [
+          {
+            "confidence": "0.8197",
+            "content": "way"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.0",
+        "end_time": "35.32",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "must"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.32",
+        "end_time": "35.8",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "always"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.8",
+        "end_time": "36.45",
+        "alternatives": [
+          {
+            "confidence": "0.9975",
+            "content": "remember"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "36.79",
+        "end_time": "36.98",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "that"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "36.98",
+        "end_time": "37.11",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "we"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "37.11",
+        "end_time": "37.44",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "share"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "37.44",
+        "end_time": "37.7",
+        "alternatives": [
+          {
+            "confidence": "0.9991",
+            "content": "one"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "37.7",
+        "end_time": "38.22",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "home"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "38.97",
+        "end_time": "39.24",
+        "alternatives": [
+          {
+            "confidence": "0.9539",
+            "content": "and"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "39.24",
+        "end_time": "39.63",
+        "alternatives": [
+          {
+            "confidence": "0.996",
+            "content": "one"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "40.26",
+        "end_time": "41.07",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "glorious"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.41",
+        "end_time": "41.92",
+        "alternatives": [
+          {
+            "confidence": "0.9987",
+            "content": "destiny"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "42.14",
+        "end_time": "42.64",
+        "alternatives": [
+          {
+            "confidence": "0.7392",
+            "content": "way"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "42.65",
+        "end_time": "43.04",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "All"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.05",
+        "end_time": "43.55",
+        "alternatives": [
+          {
+            "confidence": "0.987",
+            "content": "believe"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.56",
+        "end_time": "43.72",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.72",
+        "end_time": "44.29",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "same"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "44.29",
+        "end_time": "44.58",
+        "alternatives": [
+          {
+            "confidence": "0.9978",
+            "content": "red"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "44.64",
+        "end_time": "45.08",
+        "alternatives": [
+          {
+            "confidence": "0.9998",
+            "content": "blood"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "46.04",
+        "end_time": "47.39",
+        "alternatives": [
+          {
+            "confidence": "0.7402",
+            "content": "way"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "47.39",
+        "end_time": "47.67",
+        "alternatives": [
+          {
+            "confidence": "0.9992",
+            "content": "All"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "47.67",
+        "end_time": "48.25",
+        "alternatives": [
+          {
+            "confidence": "0.8912",
+            "content": "salute"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "48.73",
+        "end_time": "48.85",
+        "alternatives": [
+          {
+            "confidence": "0.9488",
+            "content": "the"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "48.85",
+        "end_time": "49.47",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "same"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "49.48",
+        "end_time": "49.93",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "great"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "50.09",
+        "end_time": "50.78",
+        "alternatives": [
+          {
+            "confidence": "0.9998",
+            "content": "American"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "50.79",
+        "end_time": "51.16",
+        "alternatives": [
+          {
+            "confidence": "0.8593",
+            "content": "flag"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "51.49",
+        "end_time": "52.03",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "our"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "52.15",
+        "end_time": "52.76",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "best"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "52.86",
+        "end_time": "53.57",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "days"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "54.08",
+        "end_time": "54.24",
+        "alternatives": [
+          {
+            "confidence": "0.9968",
+            "content": "are"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "54.25",
+        "end_time": "54.63",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "yet"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "54.92",
+        "end_time": "55.05",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "to"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "55.06",
+        "end_time": "55.55",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "come"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      }
+    ]
+  },
+  "status": "COMPLETED"
+}

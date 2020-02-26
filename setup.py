@@ -13,7 +13,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'voxcut = voxsupercut.cli:main',
+            'voxcut = voxsupercut.cli:cli',
         ]
     },
 )
