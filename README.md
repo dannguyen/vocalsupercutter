@@ -1,4 +1,4 @@
-# vocalsupercutter
+# voxsupercut
 
 
 ## Developer notes
@@ -12,12 +12,12 @@ $ pip install -e .
 Run the CLI with:
 
 ```sh
-$ vocalcuts
+$ voxcut
 ```
 
 ### Version 0.0.1
 
-Running `vocalcuts` produces this output:
+Running `voxcut` produces this output:
 
 ```
 hello world

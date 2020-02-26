@@ -1,4 +1,4 @@
-from vocalsupercutter.utils import hello, helpstart
+from voxsupercut.utils import hello, helpstart
 
 if __name__ == '__main__':
     hello()

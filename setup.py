@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='vocalsupercutter',
+    name='voxsupercut',
     version='0.0.1',
     packages=find_packages(),
     install_requires=[
@@ -13,7 +13,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'vocalcuts = vocalsupercutter.cli:main',
+            'voxcut = voxsupercut.cli:main',
         ]
     },
 )
