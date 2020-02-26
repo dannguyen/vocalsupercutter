@@ -1,4 +1,4 @@
-from myfoo.utils import hello, helpstart
+from vocalsupercutter.utils import hello, helpstart
 
 if __name__ == '__main__':
     hello()
